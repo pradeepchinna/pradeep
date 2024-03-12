@@ -260,6 +260,11 @@ spec:
         env:
         - name: ASPNETCORE_ENVIRONMENT
           value: Production
+
+
+
+
+          
 ---
 apiVersion: apps/v1
 kind: Deployment
