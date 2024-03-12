@@ -267,6 +267,8 @@ metadata:
   name: customermanagementapi-v2
   namespace: pitstop
 spec:
+
+
   replicas: 1
   selector:
     matchLabels:
